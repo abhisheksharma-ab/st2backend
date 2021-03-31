@@ -1,0 +1,62 @@
+.main
+{
+    border: 2px solid #000;
+}
+.heading
+{
+    font-size: 30px;
+    text-align: center;
+}
+.brdr
+{
+    border-top: 2px solid #000;
+}
+.form-group
+{
+  margin-top: 10px;
+}
+
+label
+{
+  font-size: 22px;
+  line-height: 1em;
+
+}
+.form-control
+{
+  font-size: 1.3em;
+  color: #080808;
+}
+.submit
+{
+    font-size: 1.1em;
+    margin-top: 15px;
+    width:30%;
+    color: black;
+    position: absolute;
+    left:35%;
+    background-color: chocolate;
+}
+#output
+{
+  display: none;
+}
+#detailTable
+{
+  background-color:whitesmoke;
+}
+.thanks
+{
+    font-size: 25px;
+    font-family: cursive;
+    font-weight: bold;
+}
+.c1
+{
+    position: relative;
+    animation-name: changebg;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    background-color: rgb(255, 102, 102);
+    border-radius: 5px;
+}
